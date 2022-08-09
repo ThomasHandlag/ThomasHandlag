@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThomasHandlag
-- 👀 I’m interested in ...web development , mobile application, etc.
-- 🌱 I’m currently learning ...IT
-- 💞️ I’m looking to collaborate on ...learn 
-- 📫 How to reach me : truongthuongvan203@gmail.com
+- 👀 I’m excited to build app.
+- 🌱 Learn everything to be better.
+- 💞️ I’m lonely. 
+- 📫 'Try your best' my teacher said. 
 
 <!---
 ThomasHandlag/ThomasHandlag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
