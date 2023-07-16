@@ -8,9 +8,8 @@ ThomasHandlag/thuongbignose is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- I hate peppers
++ Like green things
+! Love in orange
+@huh@
 ```
