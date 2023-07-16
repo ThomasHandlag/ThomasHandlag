@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 ```diff
 - I hate peppers
 + Like green things
-! Love in orange
-@huh@
+! Love orange
 ```
