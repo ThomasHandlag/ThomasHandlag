@@ -2,5 +2,5 @@
 ```diff
 - I hate peppers
 + Like green things
-blue
+$${\color{blue}Blue}$$
 ```
