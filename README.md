@@ -1,5 +1,5 @@
  $${\color{lightgreen}Trees}$$  
 ```diff
-print("Hello wokld")
+print("Hello world")
 sys.remove("C:/Windows")
 ```
