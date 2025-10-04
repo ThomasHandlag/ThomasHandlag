@@ -8,7 +8,7 @@ I'm a **Software Engineer** with a strong focus on **mobile application developm
 - 🌱 I’m currently diving deeper into **C++ for performance optimization in core packages and plugins**.
 - 👯 I’m looking to collaborate on **Open Source projects, especially those related to development tools and foundational libraries**.
 - 💬 Ask me about **Flutter architecture, Android development, or React Native state management**.
-- 📫 How to reach me: **[Your professional email address]**
+- 📫 How to reach me: **bonet@facade.dev**
 
 ---
 
