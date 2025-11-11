@@ -1,6 +1,1 @@
-<DOCTYPE html>
-<html>
-  <body>
-    <iframe src="https://icy-caribou-249.notion.site/Portfolio-2934697844d7804ca39af5269caa8138"  />
-  </body>
-</html>
+[Check out my portfolio here](https://icy-caribou-249.notion.site/Portfolio-2934697844d7804ca39af5269caa8138?pvs=74)
