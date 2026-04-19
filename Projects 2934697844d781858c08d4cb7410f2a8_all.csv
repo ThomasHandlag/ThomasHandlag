@@ -1,0 +1,5 @@
+﻿Name,Deploy URL,End Date,Featured,Github URL,Service,Start Date,Text
+Mescat - A Matrix Chat Client,,,Yes,https://github.com/ThomasHandlag/mescat,"ChatApp, Flutter, IPFS, Matrix, Solidity","October 10, 2025","A hybrid message app combines the strength of blockchain to secure user data. "
+Bustify,https://app.bustify.dev,"October 1, 2025",Yes,https://github.com/ThomasHandlag/busify-be,"Docker, MongoDB, MySQL, NextJs, Redis, Spring Boot, Transportation","July 1, 2025","Bus booking Platform provides a business solution for bus operators and booking centers without any complex step. "
+Audiopc,,,Yes,https://github.com/ThomasHandlag/audiopc,"C/C++, Flutter, Kotlin, Rust","April 10, 2024",A package built for playing audio data and providing advance audio data processing
+Musicat,,"March 24, 2026",Yes,https://github.com/ThomasHandlag/musicat,"Flutter, IPFS, Solidity","December 10, 2024",A Themed Skin NFT marketplace
